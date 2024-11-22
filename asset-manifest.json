@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DEDI-ejercicio-memory/static/css/main.aef1d1fa.css",
+    "main.js": "/DEDI-ejercicio-memory/static/js/main.d624b2f6.js",
+    "static/js/453.45dc5853.chunk.js": "/DEDI-ejercicio-memory/static/js/453.45dc5853.chunk.js",
+    "index.html": "/DEDI-ejercicio-memory/index.html",
+    "main.aef1d1fa.css.map": "/DEDI-ejercicio-memory/static/css/main.aef1d1fa.css.map",
+    "main.d624b2f6.js.map": "/DEDI-ejercicio-memory/static/js/main.d624b2f6.js.map",
+    "453.45dc5853.chunk.js.map": "/DEDI-ejercicio-memory/static/js/453.45dc5853.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aef1d1fa.css",
+    "static/js/main.d624b2f6.js"
+  ]
+}
